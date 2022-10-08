@@ -308,7 +308,7 @@ background: #fcd200;
 @media screen and (max-width: 424px){
 
 .container-01{
-    height: 1300px;
+    height: 1360px;
 }
 
 
@@ -317,7 +317,7 @@ background: #fcd200;
 @media screen and (max-width: 344px){
 
     .container-01{
-        height: 1350px;
+        height: 1440px;
     }
     
     
@@ -326,7 +326,7 @@ background: #fcd200;
     @media screen and (max-width: 324px){
 
         .container-01{
-            height: 1400px;
+            height: 1450px;
         }
         
         
